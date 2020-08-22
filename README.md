@@ -6,4 +6,6 @@ Currently works only with public accounts, will add login to download private vi
 
 Just enter the copied link when prompted.
 
-*File will be downloaded exactly in the program directory*
+**File will be downloaded exactly in the program directory**
+
+_Run the program named **downloader-working.py**_
