@@ -1,0 +1,46 @@
+-----------------------
+Instagram IGTV download:
+-----------------------
+
+eg.1
+//https://www.instagram.com/tv/CCLfeBgpwqN/
+
+<body class style>
+	<div id="react-root">
+		<section class="_9eogI E3X2T">
+			<main class="SCxLW  o64aR " role="main">
+				<div class="Kj7h1  yJx9G">
+					<div class="ltEKP" style="max-width: 721px;">
+						<article class="QBXjJ M9sTE  L_LMM  JyscU  ePUX4">
+							<div class="_97aPb wKWK0">                
+								<div>
+									<div class="kPFhm B1JlO OAXCp " style="padding-bottom: calc(177.733% - 1px);">
+										<div style="height: calc(100% + 1px); position: absolute; width: 100%;">
+											<div class="GRtmf wymO0 ">
+												<div class="_5wCQW">
+													<video class="tWeCl" controls="" controlslist="nodownload" playsinline="" poster="https://instagram.fdel25-1.fna.fbcdn.net/v/t51.2885-15/e15/107309332_1390802377787609_3912593049985118311_n.jpg?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_ohc=xhl8rVAyigwAX_bPBPg&amp;oh=73d49fc16536ff10f132387e55fe021b&amp;oe=5F01C90C" preload="metadata" type="video/mp4" src="https://instagram.fdel25-1.fna.fbcdn.net/v/t50.2886-16/105771444_763783211027897_4109405963688648496_n.mp4?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_ohc=7hho5j-71RYAX_ce7H7&amp;oe=5F017798&amp;oh=33c15ad41154bdd4764315f2cba692ff">
+
+
+
+
+------------------------------
+Instagram post(video) download:
+------------------------------
+
+eg.1
+https://www.instagram.com/p/CCGvtSgodOk/
+
+<body class style>
+	<div id="react-root">
+		<section class="_9eogI E3X2T">
+			<main class="SCxLW  o64aR " role="main">
+				<div class="Kj7h1  yJx9G">
+					<div class="ltEKP" style="max-width: 815px;">
+						<article class="QBXjJ M9sTE  L_LMM  JyscU  ePUX4"><header class="Ppjfr UE9AK  wdOqh">
+							<div class="_97aPb wKWK0">
+								<div>
+									<div class="kPFhm B1JlO OAXCp " style="padding-bottom: calc(125% - 1px);">
+										<div style="height: calc(100% + 1px); position: absolute; width: 100%;">
+											<div class="GRtmf wymO0 ">
+												<div class="_5wCQW">
+													<video class="tWeCl" playsinline="" poster="https://instagram.fdel25-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/106567338_2708388372816573_1705321139206926869_n.jpg?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=9XGHSIwKU_8AX8qzp5l&amp;oh=184a2414d6fa1eb6a5b174abd2149195&amp;oe=5F01A21D" preload="none" type="video/mp4" src="https://instagram.fdel25-1.fna.fbcdn.net/v/t50.2886-16/106240893_112143143736388_3457765850715681589_n.mp4?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=I01E8DOoaMkAX820D_S&amp;oe=5F014FD4&amp;oh=3479d668e5fd68f97c9f0d31867e5e18">
